@@ -2,6 +2,7 @@
 
 Day1 - 19/01/25
 
+<<<<<<< HEAD
 a. Learned to print messages in Java. 
 b. Learned to add numbers in Java by taking user input. 
 c. Learned to convert Celsius into Fahrenheit in Java by taking user input. d. Learned to find the area of a circle in Java by taking user input. 
@@ -14,3 +15,12 @@ Day2 - 22/01/25
 a. Learnt about taking user input using Scanner.
 b. Learnt about taking multiple inputs from user using Scanner.
 c. Did basic programming like area of triangle, miles-km conversion, profit-loss in java.
+=======
+a. Learned to print messages in Java.
+b. Learned to add numbers in Java by taking user input.
+c. Learned to convert Celsius into Fahrenheit in Java by taking user input.
+d. Learned to find the area of a circle in Java by taking user input.
+e. Learned to find the volume of a cylinder in Java by taking user input.
+
+-----------------------------------------------------------------------------------------------------------------------
+>>>>>>> 3889a6c34f2a8a1c5b9d7beb3e59bd485a3ae28c
