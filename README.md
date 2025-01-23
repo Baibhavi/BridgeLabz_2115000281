@@ -15,3 +15,13 @@ Day2 - 22/01/25
 a. Did basic programming
 b. Learned and practiced about user input
 c. Learnt how to code programs for area of triangle, conversions in km-miles, etc in java.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Day3 - 23/01/25
+
+a. Learnt about conditionals and solved question related to it. 
+b. Learnt about loops - while, do-while and for loop. Also solved question.
+c. Solved queations related to operators and learnt using logical operators in loops and if-else.
+d. Solved queations on nested loops, nested if-else.
+e. Learnt about switch-case and also solved a question on it.
