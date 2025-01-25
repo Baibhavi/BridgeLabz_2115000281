@@ -25,3 +25,13 @@ b. Learnt about loops - while, do-while and for loop. Also solved question.
 c. Solved queations related to operators and learnt using logical operators in loops and if-else.
 d. Solved queations on nested loops, nested if-else.
 e. Learnt about switch-case and also solved a question on it.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Day4 - 25/01/25
+
+a. Learnt about arrays and it's different datatypes.
+b. learnt about properties and inbuilt-methods of array and practiced questions about it.
+c. Learnt about 2D arrays and its properties and used it to solve problems.
+
+------------------------------------------------------------------------------------------------------------------------
