@@ -1,25 +1,31 @@
 package Day6.Assignment1;
-
 import java.util.Scanner;
 public class MostFrequentCharacter {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter a strings : ");
-        String str = input.nextLine().trim();
-        char mostFreq = 'i';
+        System.out.println("Enter a string: ");
+        String str = input.nextLine();
+        char mostFrequentChar = findMostFrequentCharacter(str);
+        System.out.println("Most frequent character is: " + mostFrequentChar);
+    }
+
+    public static char findMostFrequentCharacter(String str) {
+        char mostFreq = '\0';
         int maxCount = 0;
-        for(int i = 0; i < str.length() ; i++){
+
+        for (int i = 0; i < str.length(); i++) {
+            char currentChar = str.charAt(i);
             int count = 0;
-            for(int j = i; j < str.length(); j++){
-                if(str.charAt(i) == str.charAt(j)){
+            for (int j = 0; j < str.length(); j++) {
+                if (currentChar == str.charAt(j)) {
                     count++;
                 }
             }
-            if(count > maxCount){
-                mostFreq = str.charAt(i);
+            if (count > maxCount) {
+                mostFreq = currentChar;
                 maxCount = count;
             }
         }
-        System.out.println("Most frequent character is " + mostFreq);
+        return mostFreq;
     }
 }
