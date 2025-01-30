@@ -45,3 +45,19 @@ d. Learnt recursion and used it in the code.\
 e. Did complex and lengthy codes like matrix operation.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Day6 - 29/01/25
+
+a. Learnt about Strings and practiced some problems.\
+b. Learnt about in-built functions of strings such as length(), charAt(), indexOf(), etc. \
+c. Solved problems on strings with and without in-built functions of strings.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Day7 - 31/01/25
+
+a. Learnt about basic OOPs concepts like class, objects, encapsulation, polymorphism, etc.\
+b. Solved Questions on OOPs problems\
+c. Explored how Oops can be used in real development.
+
+------------------------------------------------------------------------------------------------------------------------
