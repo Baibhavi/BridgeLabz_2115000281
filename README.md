@@ -62,3 +62,11 @@ c. Explored how Oops can be used in real development.
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Day8 - 02/02/25
+
+a. Learnt difference between class variables and instance variables.\
+b. Solved questions on class variables and instance variables.\
+c. Learnt about "extends" keyword for inheritance and solved questions on it.\
+d. Learnt about classes and subclasses while solving questions on inheritance.
+
+------------------------------------------------------------------------------------------------------------------------
