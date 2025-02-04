@@ -70,3 +70,13 @@ c. Learnt about "extends" keyword for inheritance and solved questions on it.\
 d. Learnt about classes and subclasses while solving questions on inheritance.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Day9 - 04/02/25
+
+a. Learnt about this, static and final keywords and used them in solving questions.\
+b. Learnt about instanceOf operator to check whether an object is member of a class or not.\
+c. Made classes like BankAccount, Employee, Student, Book, Product, Vehicle and Patient to solve questions on
+Bank Account System, Employee Management System, Student Management System, Library Management System,
+Shopping Cart System,  University Student Management,  Vehicle Registration System, Hospital Management System.
+
+------------------------------------------------------------------------------------------------------------------------
