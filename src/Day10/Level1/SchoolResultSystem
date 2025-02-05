@@ -1,0 +1,42 @@
+Class Diagram
++-----------------------+                   +-------------------------+                       +-----------------------+
+|       Student         |                   |        Subject          |                       |     GradeCalculator   |
++-----------------------+                   +-------------------------+                       +-----------------------+
+| -studentName: String  |                   |  -subjectName: String   |                       | -totalSum: Integer    |
+| -studentID:Integer    |                   |  -subjectMarks:Integer  |                       | -average: double      |
++-----------------------+                   +-------------------------+                       | -grade : String       |
+|getStudentName():String|                   |getSubjectName():String  |                       +-----------------------+
+|getStudentID():Integer |                   |getSubjectMarks():Integer|                       |   getGrade():String   |
++-----------------------+                   +-------------------------+                       |   getAverage():String |
+            |                                            |                                    +-----------------------+
+            |                                            |                                                |
+            |-----------------<has many>-----------------|---------------------<uses>---------------------|
+            |                                            |                                                |
+            |                                            |                                                |
+            --------------------------------------<return grades>------------------------------------------
+
+Object Diagram
++-----------------------------+                 +-----------------------------+                   +-----------------------------+
+|      Student: John          |                 |      Subject: Maths         |                   |      Subject: Science       |
++-----------------------------+                 +-----------------------------+                   +-----------------------------+
+| studentName: "John"         |                 |    subjectName: "Maths"     |                   |   subjectName: "Science"    |
+| studentID: 12345            |                 |     subjectMarks: 90        |                   |     subjectMarks: 85        |
+| subjects:                   |                 +-----------------------------+                   +-----------------------------+
+|   - Maths: 90               |----<has>-----------------------|                                                 |
+|   - Science: 85             |------------------------------------------<has>-----------------------------------|
++-----------------------------+
+
+Sequence Diagram
+Student                     GradeCalculator
+   |                              |
+   | requestGrades()              |
+   |----------------------------->|
+   |                              |
+   | calculateGrade(subjects)     |
+   |<-----------------------------|
+   |                              |
+   | getGrades()                  |
+   |----------------------------->|
+   |                              |
+   | displayGrades()              |
+   |<-----------------------------|
