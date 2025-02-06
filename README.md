@@ -80,3 +80,11 @@ Bank Account System, Employee Management System, Student Management System, Libr
 Shopping Cart System,  University Student Management,  Vehicle Registration System, Hospital Management System.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Day10 - 06/02/25
+
+a. Learnt about object diagram, class diagram and sequence diagram.\
+b. Practiced object, class and sequence diagrams on complex problems like School Result Application and
+Grocery Store Bill Generation Application.\
+c. Solved complex problems and wrote codes which involved topics like Assosiation, Aggregation and Composition on problems like  E-commerce Platform with Orders, Customers, and Products ;
+University Management System ; Hospital Management System , Library Management System, etc. 
