@@ -86,5 +86,18 @@ Day10 - 06/02/25
 a. Learnt about object diagram, class diagram and sequence diagram.\
 b. Practiced object, class and sequence diagrams on complex problems like School Result Application and
 Grocery Store Bill Generation Application.\
-c. Solved complex problems and wrote codes which involved topics like Assosiation, Aggregation and Composition on problems like  E-commerce Platform with Orders, Customers, and Products ;
+c. Solved complex problems and wrote codes which involved topics like Assosiation, Aggregation and Composition on 
+problems like  E-commerce Platform with Orders, Customers, and Products ;
 University Management System ; Hospital Management System , Library Management System, etc. 
+
+------------------------------------------------------------------------------------------------------------------------
+
+Day11 - 07/02/25
+
+a. Learnt about inheritance and extends keyword and solved questions on it.\
+b. Learnt and solved questions on types of inheritance: Single, multilevel, hierarchical and hybrid inheritance.\
+c. Achieved multiple inheritance with Interfaces.\
+d. Solved questions on Interfaces and used implements keyword. Solved questions on book management, restuarant managemnent,
+vehicle management system, bank account management, etc. using inheritance.
+
+------------------------------------------------------------------------------------------------------------------------
