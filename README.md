@@ -101,3 +101,13 @@ d. Solved questions on Interfaces and used implements keyword. Solved questions 
 vehicle management system, bank account management, etc. using inheritance.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Day12 - 10/02/25
+
+a. Learnt about encapsulation, polymorphism and it's types, abstract classes and abstract methods.\
+b. Leanrnt about interfaces and solved questions on it.\
+c. Did codes on  Employee Management System, E-Commerce Platform,Vehicle Rental System, Banking System, 
+Library Management System, Online Food Delivery System, Hospital Patient Management,Ride-Hailing Application.\
+d. Used concept of encapsulation, polymorphism, abstraction on the above questions.
+
+------------------------------------------------------------------------------------------------------------------------
