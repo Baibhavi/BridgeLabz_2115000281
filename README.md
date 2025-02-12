@@ -111,3 +111,14 @@ Library Management System, Online Food Delivery System, Hospital Patient Managem
 d. Used concept of encapsulation, polymorphism, abstraction on the above questions.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Day13 - 12/02/25
+
+a. Learnt about Data Structures in java.\
+b. Learnt about linear, hierarchical, graph, hash-Based and advanced data structures.\
+c. Learnt about Linked list and its types:- Singly, doubly, circular linked list.\
+d. Solved questions on all singly, doubly, circular linked list like :- Student Record Management,
+Movie Management System, Task Scheduler, etc.
+
+------------------------------------------------------------------------------------------------------------------------
+
