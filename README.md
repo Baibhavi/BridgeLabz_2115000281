@@ -122,3 +122,11 @@ Movie Management System, Task Scheduler, etc.
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Day14 - 13/02/25
+
+a. Learnt about Stack and Queues and solved questions like implementing Queue using stack,Sort a Stack Using Recursion,
+    etc.
+b. Learnt about HashMap and Hash Functions and solved questions like Target sum, Two sum, etc.
+c. Learnt about java inbuilt Data structures stack, queue , hashmap in collection framework.
+
+------------------------------------------------------------------------------------------------------------------------
