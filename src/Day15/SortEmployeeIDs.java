@@ -1,7 +1,6 @@
 package Day15;
 
 import java.util.Arrays;
-
 public class SortEmployeeIDs {
     public static int[] selectionSort(int[] employeeId){
         int n = employeeId.length;
