@@ -125,8 +125,18 @@ Movie Management System, Task Scheduler, etc.
 Day14 - 13/02/25
 
 a. Learnt about Stack and Queues and solved questions like implementing Queue using stack,Sort a Stack Using Recursion,
-    etc.
-b. Learnt about HashMap and Hash Functions and solved questions like Target sum, Two sum, etc.
+    etc.\
+b. Learnt about HashMap and Hash Functions and solved questions like Target sum, Two sum, etc.\
 c. Learnt about java inbuilt Data structures stack, queue , hashmap in collection framework.
+
+------------------------------------------------------------------------------------------------------------------------
+
+Day15 - 14/02/25
+
+a. Learnt about sorting algorithms like bubble sort, merge sort, quick sort, selection sort,
+   insertion sort, heap sort and counting sort.\
+b. Solved questions and learnt about the time complexity and space complexity of all the sorting algorithms.\
+c. Solved questions like Sort Student Marks, Sort Employee IDs, Sort an Array of Book Prices, etc. with the help of 
+   above sorting algorithms.
 
 ------------------------------------------------------------------------------------------------------------------------
