@@ -26,7 +26,7 @@ public class ComparisonStringBuilderStringBuffer {
         long timeTakenStringBuffer = performanceTestStringBuffer();
         System.out.println("Performance Time of Sting Builder: " + timeTakenStringBuilder);
         System.out.println("Performance Time of Sting Buffer: " + timeTakenStringBuffer);
-        if(timeTakenStringBuffer > timeTakenStringBuilder)
+        if(timeTakenStringBuffer < timeTakenStringBuilder)
             System.out.println("String Buffer is faster than String Builder");
         else
             System.out.println("String Builder is faster than String Buffer");
