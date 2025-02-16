@@ -140,3 +140,12 @@ c. Solved questions like Sort Student Marks, Sort Employee IDs, Sort an Array of
    above sorting algorithms.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Day16 - 15/02/25
+
+a. Learnt about String Builder and String Buffer and solved questions on it.\
+b. Learnt about BufferReader, InputStreamReader, FileReader and difference among them. Also solved questions on it.\
+c. Learnt about Linear search and binary search and solved questions on them.
+
+------------------------------------------------------------------------------------------------------------------------
+
