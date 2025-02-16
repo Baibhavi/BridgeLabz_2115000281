@@ -1,7 +1,6 @@
 package Day16.ChallengeProblems;
 
 import java.util.Arrays;
-
 public class LinearAndBinarySearch {
     public static int binarySearch(int[] num, int target){
         Arrays.sort(num);
