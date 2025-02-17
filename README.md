@@ -149,3 +149,11 @@ c. Learnt about Linear search and binary search and solved questions on them.
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Day17 - 17/02/25
+
+a. Learnt about Time complexity and Space Complexity.\
+b. Learnt about Big-O notation and Upper bound. Solved questions to determine time complexity of different approaches.\
+c. Solved questions to determine difference in time complexity b/t iterative and recursive method, 
+   String , stringBuilder and String buffer; InputStreamReader and FileReader, etc.
+
+------------------------------------------------------------------------------------------------------------------------
