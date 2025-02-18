@@ -157,3 +157,10 @@ c. Solved questions to determine difference in time complexity b/t iterative and
    String , stringBuilder and String buffer; InputStreamReader and FileReader, etc.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Day18 - 18/02/25
+
+a. Learnt about Generics, Bounded types generics, Wildcards, generic class, generic methods, etc.\
+b. Solved questions on Generics like - Smart Warehouse Management System, Dynamic Online Marketplace, etc.
+
+------------------------------------------------------------------------------------------------------------------------
