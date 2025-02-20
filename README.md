@@ -164,3 +164,14 @@ a. Learnt about Generics, Bounded types generics, Wildcards, generic class, gene
 b. Solved questions on Generics like - Smart Warehouse Management System, Dynamic Online Marketplace, etc.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Day19 - 19/02/25
+
+a. Learnt about java Collections, List interface, set interface, queue interface.\
+b. Learnt about Map interface and its implementing classes like, HashMap, HashTable, TreeMap and LinkedHashMap.\
+c. Learnt about implementing classes of List (ArrayList, LinkedList, Vector), Set(HashSet, LinkedHashSet, TreeSet) and
+Queue(PriorityQueue, Deque).\
+d. Solved questions on operations on Map, List, Set and Queue.
+
+------------------------------------------------------------------------------------------------------------------------
+
