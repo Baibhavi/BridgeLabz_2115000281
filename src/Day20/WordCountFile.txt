@@ -1,0 +1,5 @@
+This is a sample text file. This file contains sample text data for testing purposes.
+This is another line with some more sample text. Error handling is important.
+Finding the most frequently occurring words in this text file. Error handling again.
+Sample text for testing word counting in a file. Error handling is key.
+Yet another line with text for word counting testing. The word error appears often.
