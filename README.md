@@ -183,3 +183,12 @@ c. Solved questions on streams like - copy a file to another file, retrieve data
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Day21 - 21/02/25
+
+a. Learnt about Exception and types of exceptions like - Checked, Unchecked and Custom Exceptions.\
+b. Learnt about Handling these exceptions with try-catch block, try-catch-finally blocks, try-with-resources statement, 
+throws clause and throw statement.\
+c. Solved questions on checked, unchecked and custom exceptions with try-catch, throws, throw and finally.
+
+------------------------------------------------------------------------------------------------------------------------
+
