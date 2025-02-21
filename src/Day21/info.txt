@@ -1,0 +1,2 @@
+This is the Info File.
+This file will be copied to the destination file.
