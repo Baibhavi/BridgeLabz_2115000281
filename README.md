@@ -175,3 +175,11 @@ d. Solved questions on operations on Map, List, Set and Queue.
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Day20 - 20/02/25
+
+a. Learnt about Java Streams like - FileStream, BufferStream, ByteArray Streams, Buffered Streams ,Reader and Writer.\
+b. Learnt about types of streams - Byte Stream and Character Stream.\
+c. Solved questions on streams like - copy a file to another file, retrieve data from files, etc.
+
+------------------------------------------------------------------------------------------------------------------------
+
