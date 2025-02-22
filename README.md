@@ -192,3 +192,12 @@ c. Solved questions on checked, unchecked and custom exceptions with try-catch, 
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Day22 - 22/02/25
+
+a. Learnt about Regular Expressions(Regex) and how it helps in pattern matching.
+b. Solved questions on regex like password strength check, extraction of email, words, IPAddress, etc.
+c. Learnt about JUnit Framework and how it helps in testing.
+d. Solved questions on JUnit like BankAccountManagement testing, Calculator testing, etc.
+
+------------------------------------------------------------------------------------------------------------------------
+
