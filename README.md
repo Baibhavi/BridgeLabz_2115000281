@@ -201,3 +201,9 @@ d. Solved questions on JUnit like BankAccountManagement testing, Calculator test
 
 ------------------------------------------------------------------------------------------------------------------------
 
+Day23 - 24/02/25
+
+a. Learnt and solved questions on Annotaions and Reflections.\
+b. Solved questions like - repeatable annotations, suppressUnchecked warnings, Custom cashing, Json serializer, etc.
+
+------------------------------------------------------------------------------------------------------------------------
