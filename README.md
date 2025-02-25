@@ -207,3 +207,12 @@ a. Learnt and solved questions on Annotaions and Reflections.\
 b. Solved questions like - repeatable annotations, suppressUnchecked warnings, Custom cashing, Json serializer, etc.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Day24 - 25/02/25
+
+a. Learnt about CSV File Handling through BufferReader and OpenCSV.\
+b. Did questions on CSV File Handling like - Read a CSV File and Print Data, Modify a CSV File, 
+Convert CSV Data into Java Objects, etc.\
+c. Learnt about CSVReader and how data is stored/fetched in the form of array using OpenCsv.
+
+------------------------------------------------------------------------------------------------------------------------
