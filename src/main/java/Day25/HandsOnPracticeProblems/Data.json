@@ -1,0 +1,14 @@
+{
+  "name": "Baibhavi",
+  "age": 22,
+  "address": {
+    "street": "Yamuna Hostel, GLAU",
+    "city": "Mathura",
+    "zipcode": "10001"
+  },
+  "skills": [
+    "Java",
+    "Python",
+    "DBMS"
+  ]
+}

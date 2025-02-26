@@ -1,0 +1,16 @@
+{
+  "emails": [
+    {
+      "email": "baibhavi.pandey@example.com"
+    },
+    {
+      "email": "krishna.kumar@example.com"
+    },
+    {
+      "email": "invalidemail"
+    },
+    {
+      "email": "palak.sharma@example.org"
+    }
+  ]
+}
