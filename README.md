@@ -216,3 +216,10 @@ Convert CSV Data into Java Objects, etc.\
 c. Learnt about CSVReader and how data is stored/fetched in the form of array using OpenCsv.
 
 ------------------------------------------------------------------------------------------------------------------------
+
+Day25 - 26/02/25
+
+a. Learnt about JSON Data Handling using Json, Gson and Object Mapper.\
+b. Did questions like creating json object, converting json to java object, object to json, json to xml, etc.
+
+------------------------------------------------------------------------------------------------------------------------
