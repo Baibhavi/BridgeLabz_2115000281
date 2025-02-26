@@ -1,0 +1,16 @@
+[
+  {
+    "id" : 1,
+    "name": "Baibhavi",
+    "email": "baibhavi@example.com",
+    "age": 22,
+    "skills" : ["Java", "Python", "DBMS"]
+  },
+  {
+    "id" : 2,
+    "name": "Pooja",
+    "email": "pooja@example.com",
+    "age": 21,
+    "skills" : ["Java", "DBMS"]
+  }
+]
